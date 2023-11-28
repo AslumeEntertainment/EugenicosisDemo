@@ -1,0 +1,6 @@
+[submodule "Plugins/EugenicosisAssets"]
+	path = Plugins/EugenicosisAssets
+	url = https://github.com/2EZ-Entertainment/EugenicosisAssets.git
+[submodule "Plugins/EugenicosisCode"]
+	path = Plugins/EugenicosisCode
+	url = https://github.com/2EZ-Entertainment/EugenicosisCode.git
