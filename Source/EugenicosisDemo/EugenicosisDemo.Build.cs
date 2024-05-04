@@ -10,7 +10,9 @@ public class EugenicosisDemo : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { 
 			"Core", 
-			"CoreUObject", 
+			"CoreUObject",
+			"Slate",
+			"SlateCore",
 			"Engine", 
 			"InputCore",
             "EnhancedInput",
